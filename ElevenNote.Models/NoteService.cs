@@ -34,7 +34,7 @@ namespace ElevenNote.Models
             }
         }
 
-        public IEnumerable<NoteListItem> GetNotes()
+        public IEnumerable<NoteListItem> GetNotes()  // this method will allow us to see all the notes that belongs to a specific user.
         {
             using (var ctx = new ApplicationDbContext())
             {
