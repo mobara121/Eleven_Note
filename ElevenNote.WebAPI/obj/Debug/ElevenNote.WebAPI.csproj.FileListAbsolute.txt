@@ -236,3 +236,6 @@ C:\ElevenFiftyProjects\SD\Projects\Eleven_Note\ElevenNote.WebAPI\obj\Debug\Eleve
 C:\ElevenFiftyProjects\SD\Projects\Eleven_Note\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csproj.CopyComplete
 C:\ElevenFiftyProjects\SD\Projects\Eleven_Note\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.dll
 C:\ElevenFiftyProjects\SD\Projects\Eleven_Note\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.pdb
+C:\ElevenFiftyProjects\SD\Projects\Eleven_Note\ElevenNote.WebAPI\bin\ElevenNote.Models.dll
+C:\ElevenFiftyProjects\SD\Projects\Eleven_Note\ElevenNote.WebAPI\bin\ElevenNote.Models.pdb
+C:\ElevenFiftyProjects\SD\Projects\Eleven_Note\ElevenNote.WebAPI\bin\ElevenNote.Models.dll.config
