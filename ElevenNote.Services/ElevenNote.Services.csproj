@@ -99,10 +99,6 @@
       <Project>{3259a3ee-0d78-46ca-8510-40ffb71bdede}</Project>
       <Name>ElevenNote.Models</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ElevenNote.WebAPI\ElevenNote.WebAPI.csproj">
-      <Project>{151e4d06-77fb-4056-ade3-745035010409}</Project>
-      <Name>ElevenNote.WebAPI</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
